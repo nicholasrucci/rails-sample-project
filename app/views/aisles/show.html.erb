@@ -1,0 +1,21 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @aisle.name %>
+</p>
+
+<p>
+  <strong>Section:</strong>
+  <%= @aisle.section %>
+</p>
+
+<p><strong>Products:</strong></p>
+<ul>
+  <% @aisle.products.each do |product| %>
+      <li><%= link_to product.name, product %></li>
+  <% end %>
+</ul>
+
+<%= link_to 'Edit', edit_aisle_path(@aisle) %> |
+<%= link_to 'Back', aisles_path %>
