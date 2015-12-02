@@ -4365,3 +4365,1780 @@ Started GET "/" for ::1 at 2015-11-30 14:32:41 -0700
 Processing by WelcomeController#index as HTML
   Rendered welcome/index.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 38ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:13:38 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 371ms (Views: 357.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:13:38 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 57ms (Views: 56.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:13:38 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:13:38 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:14:42 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 222ms (Views: 221.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:42 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:14:44 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 53ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:14:44 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:18:46 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 45ms (Views: 44.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:18:47 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:20:06 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 48ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:20:06 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:20:07 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:20:27 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 54ms (Views: 53.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:20:27 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:20:36 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 46ms (Views: 45.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:20:36 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:22:28 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:22:28 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:23:04 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 49ms (Views: 48.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:23:04 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:23:56 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 51ms (Views: 50.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:23:56 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:23:57 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 48ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:57 -0700
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:57 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:23:58 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:24:35 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 46ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:24:35 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:25:04 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 48ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:25:04 -0700
+
+
+Started GET "/" for ::1 at 2015-12-02 12:26:47 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 53ms (Views: 52.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:26:48 -0700
+
+
+Started GET "/users/sign_in" for ::1 at 2015-12-02 12:26:50 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/shared/_links.html.erb (2.0ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/sessions/new.html.erb within layouts/application (35.8ms)
+Completed 200 OK in 95ms (Views: 84.7ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/users/sign_in" for ::1 at 2015-12-02 12:26:55 -0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ShOQDDiX4BQIEfmpJ1oaoE0AM+T235tPUieODpd3PgyROak1xsALql90Dvvidvw9XbKzEVKknTgcIAyPZ7nxNQ==", "user"=>{"email"=>"nick@test.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.7ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["email", "nick@test.com"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?  [["last_sign_in_at", "2015-11-19 03:31:12.174417"], ["current_sign_in_at", "2015-12-02 19:26:55.753103"], ["sign_in_count", 4], ["updated_at", "2015-12-02 19:26:55.754015"], ["id", 1]]
+  [1m[36m (2.6ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 96ms (ActiveRecord: 3.7ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:26:55 -0700
+Processing by WelcomeController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Redirected to http://localhost:3000/dashboard
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:26:55 -0700
+Processing by DashboardController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 56ms (Views: 54.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:28:14 -0700
+Processing by DashboardController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 46ms (Views: 44.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:28:14 -0700
+
+
+Started DELETE "/users/sign_out" for ::1 at 2015-12-02 12:28:15 -0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"axzd/xBj7FGdp3AYu2OzrCg7yYbPVoB+7Af22u9cIylOXrjHHIhlVSTCqIfaKwXSOBNXy6VYjYMqR2DAAEj9iw=="}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 6ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:28:16 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 50ms (Views: 49.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:29:44 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 56ms (Views: 55.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:29:44 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:29:44 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:29:44 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:29:44 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:29:44 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:29:44 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:29:44 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:29:45 -0700
+
+
+Started GET "/users/sign_in" for ::1 at 2015-12-02 12:29:46 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/shared/_links.html.erb (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 52ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for ::1 at 2015-12-02 12:29:51 -0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tFFAFiLLxlBfioyJnjWQczYZoKGn/06wUid6O5PhiNkDHbXXwNVL0dmJxuC7GVkXS5CIfimYW7d04mGUcxw8AA==", "user"=>{"email"=>"nick@test.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["email", "nick@test.com"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE "users" SET "last_sign_in_at" = ?, "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?  [["last_sign_in_at", "2015-12-02 19:26:55.753103"], ["current_sign_in_at", "2015-12-02 19:29:51.801075"], ["sign_in_count", 5], ["updated_at", "2015-12-02 19:29:51.801859"], ["id", 1]]
+  [1m[36m (1.1ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 83ms (ActiveRecord: 1.6ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:29:51 -0700
+Processing by WelcomeController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Redirected to http://localhost:3000/dashboard
+Completed 302 Found in 1ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:29:51 -0700
+Processing by DashboardController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 58ms (ActiveRecord: 0.1ms)
+
+ActionView::Template::Error (undefined local variable or method `dashboard_path' for #<#<Class:0x007fea3cb47cc8>:0x007fea3dd88fb8>):
+    26:       </ul>
+    27:       <% if user_signed_in? %>
+    28:       <ul class="nav navbar-nav navbar-right">
+    29:         <li><%= link_to current_user.email, dashboard_path%></li>
+    30:         <li><%= link_to "Sign out", destroy_user_session_path, method: :delete%></li>
+    31:       </ul>
+    32:       <% else %>
+  app/views/layouts/application.html.erb:29:in `_app_views_layouts_application_html_erb___2522433656295089907_70322010016660'
+
+
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.5ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (55.0ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (41.5ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (95.2ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:30:07 -0700
+Processing by DashboardController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 63ms (ActiveRecord: 0.1ms)
+
+ActionView::Template::Error (undefined local variable or method `dashboard_index' for #<#<Class:0x007fea3cb47cc8>:0x007fea3df83458>):
+    26:       </ul>
+    27:       <% if user_signed_in? %>
+    28:       <ul class="nav navbar-nav navbar-right">
+    29:         <li><%= link_to current_user.email, dashboard_index %></li>
+    30:         <li><%= link_to "Sign out", destroy_user_session_path, method: :delete%></li>
+    31:       </ul>
+    32:       <% else %>
+  app/views/layouts/application.html.erb:29:in `_app_views_layouts_application_html_erb___2522433656295089907_70322019359460'
+
+
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (53.7ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (32.9ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (74.4ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:30:17 -0700
+Processing by DashboardController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 63ms (ActiveRecord: 0.1ms)
+
+ActionView::Template::Error (undefined local variable or method `dashboard_path' for #<#<Class:0x007fea3cb47cc8>:0x007fea43abc658>):
+    26:       </ul>
+    27:       <% if user_signed_in? %>
+    28:       <ul class="nav navbar-nav navbar-right">
+    29:         <li><%= link_to current_user.email, dashboard_path %></li>
+    30:         <li><%= link_to "Sign out", destroy_user_session_path, method: :delete%></li>
+    31:       </ul>
+    32:       <% else %>
+  app/views/layouts/application.html.erb:29:in `_app_views_layouts_application_html_erb___2522433656295089907_70322018796880'
+
+
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.5ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (33.4ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (73.3ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2015-12-02 12:30:19 -0700
+Processing by Devise::SessionsController#new as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:30:19 -0700
+Processing by WelcomeController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Redirected to http://localhost:3000/dashboard
+Completed 302 Found in 1ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:30:21 -0700
+Processing by WelcomeController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Redirected to http://localhost:3000/dashboard
+Completed 302 Found in 1ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:30:21 -0700
+Processing by DashboardController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 60ms (ActiveRecord: 0.1ms)
+
+ActionView::Template::Error (undefined local variable or method `dashboard_path' for #<#<Class:0x007fea3cb47cc8>:0x007fea3df20e48>):
+    26:       </ul>
+    27:       <% if user_signed_in? %>
+    28:       <ul class="nav navbar-nav navbar-right">
+    29:         <li><%= link_to current_user.email, dashboard_path %></li>
+    30:         <li><%= link_to "Sign out", destroy_user_session_path, method: :delete%></li>
+    31:       </ul>
+    32:       <% else %>
+  app/views/layouts/application.html.erb:29:in `_app_views_layouts_application_html_erb___2522433656295089907_70322018796880'
+
+
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (54.6ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (38.1ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (82.5ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:30:59 -0700
+Processing by DashboardController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 64ms (ActiveRecord: 0.1ms)
+
+ActionView::Template::Error (undefined local variable or method `dashboard_path' for #<#<Class:0x007fea3cb47cc8>:0x007fea3d908c18>):
+    26:       </ul>
+    27:       <% if user_signed_in? %>
+    28:       <ul class="nav navbar-nav navbar-right">
+    29:         <li><%= link_to "lkjs", dashboard_path %></li>
+    30:         <li><%= link_to "Sign out", destroy_user_session_path, method: :delete%></li>
+    31:       </ul>
+    32:       <% else %>
+  app/views/layouts/application.html.erb:29:in `_app_views_layouts_application_html_erb___2522433656295089907_70322015896720'
+
+
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.4ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.4ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (41.9ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (91.5ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:31:25 -0700
+Processing by DashboardController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 56ms (Views: 54.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:31:25 -0700
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:31:40 -0700
+Processing by DashboardController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 52ms (Views: 50.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:31:40 -0700
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:31:53 -0700
+Processing by DashboardController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 56ms (Views: 55.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:31:53 -0700
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:33:39 -0700
+Processing by DashboardController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 56ms (ActiveRecord: 0.1ms)
+
+ActionView::Template::Error (undefined local variable or method `aisels_path' for #<#<Class:0x007fea3cb47cc8>:0x007fea3ec5b6d0>):
+    21: 
+    22:     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    23:       <ul class="nav navbar-nav">
+    24:         <li><%= link_to "Aisles", aisels_path %></li>
+    25:         <li><%= link_to "Products", products_path %></li>
+    26:       </ul>
+    27:       <% if user_signed_in? %>
+  app/views/layouts/application.html.erb:24:in `_app_views_layouts_application_html_erb___2522433656295089907_70322019014900'
+
+
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1@global/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (51.6ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (38.8ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (80.6ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:33:56 -0700
+Processing by DashboardController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+  Rendered dashboard/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 45ms (Views: 44.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:33:56 -0700
+
+
+Started GET "/aisles" for ::1 at 2015-12-02 12:33:57 -0700
+Processing by AislesController#index as HTML
+  [1m[35mAisle Load (0.2ms)[0m  SELECT "aisles".* FROM "aisles"
+  Rendered aisles/index.html.erb within layouts/application (5.6ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 57ms (Views: 51.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/products" for ::1 at 2015-12-02 12:33:58 -0700
+Processing by ProductsController#index as HTML
+  [1m[35mProduct Load (0.2ms)[0m  SELECT "products".* FROM "products"
+  Rendered products/index.html.erb within layouts/application (7.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 65ms (Views: 57.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/aisles" for ::1 at 2015-12-02 12:33:59 -0700
+Processing by AislesController#index as HTML
+  [1m[35mAisle Load (0.1ms)[0m  SELECT "aisles".* FROM "aisles"
+  Rendered aisles/index.html.erb within layouts/application (1.0ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 52ms (Views: 51.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/products" for ::1 at 2015-12-02 12:34:00 -0700
+Processing by ProductsController#index as HTML
+  [1m[35mProduct Load (0.1ms)[0m  SELECT "products".* FROM "products"
+  Rendered products/index.html.erb within layouts/application (1.3ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 45ms (Views: 44.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/aisles" for ::1 at 2015-12-02 12:34:01 -0700
+Processing by AislesController#index as HTML
+  [1m[35mAisle Load (0.1ms)[0m  SELECT "aisles".* FROM "aisles"
+  Rendered aisles/index.html.erb within layouts/application (1.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 47ms (Views: 46.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/aisles/1" for ::1 at 2015-12-02 12:34:19 -0700
+Processing by AislesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mAisle Load (0.1ms)[0m  SELECT  "aisles".* FROM "aisles" WHERE "aisles"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mProduct Load (0.2ms)[0m  [1mSELECT "products".* FROM "products" WHERE "products"."aisle_id" = ?[0m  [["aisle_id", 1]]
+  Rendered aisles/show.html.erb within layouts/application (20.5ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 74ms (Views: 70.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/products" for ::1 at 2015-12-02 12:35:01 -0700
+Processing by ProductsController#index as HTML
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT "products".* FROM "products"[0m
+  Rendered products/index.html.erb within layouts/application (2.1ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 46ms (Views: 45.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:35:01 -0700
+
+
+Started GET "/aisles" for ::1 at 2015-12-02 12:35:03 -0700
+Processing by AislesController#index as HTML
+  [1m[36mAisle Load (0.2ms)[0m  [1mSELECT "aisles".* FROM "aisles"[0m
+  Rendered aisles/index.html.erb within layouts/application (1.5ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 61ms (Views: 60.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/products" for ::1 at 2015-12-02 12:35:57 -0700
+Processing by ProductsController#index as HTML
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT "products".* FROM "products"[0m
+  Rendered products/index.html.erb within layouts/application (2.1ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 51ms (Views: 50.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/products" for ::1 at 2015-12-02 12:37:39 -0700
+Processing by ProductsController#index as HTML
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT "products".* FROM "products"[0m
+  Rendered products/index.html.erb within layouts/application (1.8ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 49ms (Views: 48.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:37:39 -0700
+
+
+Started GET "/products/1" for ::1 at 2015-12-02 12:37:44 -0700
+Processing by ProductsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT  "products".* FROM "products" WHERE "products"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered products/show.html.erb within layouts/application (1.1ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 55ms (Views: 53.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/products/1" for ::1 at 2015-12-02 12:39:24 -0700
+Processing by ProductsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT  "products".* FROM "products" WHERE "products"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered products/show.html.erb within layouts/application (0.9ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 50ms (Views: 49.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:39:24 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:39:25 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:39:25 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:39:25 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:39:25 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:39:25 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:39:25 -0700
+
+
+Started GET "/products/1/edit" for ::1 at 2015-12-02 12:41:54 -0700
+Processing by ProductsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT  "products".* FROM "products" WHERE "products"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mAisle Load (0.2ms)[0m  SELECT "aisles".* FROM "aisles"
+  Rendered products/_form.html.erb (8.2ms)
+  Rendered products/edit.html.erb within layouts/application (10.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 60ms (Views: 59.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/aisles" for ::1 at 2015-12-02 12:41:57 -0700
+Processing by AislesController#index as HTML
+  [1m[35mAisle Load (0.1ms)[0m  SELECT "aisles".* FROM "aisles"
+  Rendered aisles/index.html.erb within layouts/application (1.2ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 57ms (Views: 56.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/products" for ::1 at 2015-12-02 12:42:01 -0700
+Processing by ProductsController#index as HTML
+  [1m[35mProduct Load (0.2ms)[0m  SELECT "products".* FROM "products"
+  Rendered products/index.html.erb within layouts/application (1.5ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 46ms (Views: 44.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/products/1/edit" for ::1 at 2015-12-02 12:42:02 -0700
+Processing by ProductsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mProduct Load (0.1ms)[0m  SELECT  "products".* FROM "products" WHERE "products"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mAisle Load (0.1ms)[0m  [1mSELECT "aisles".* FROM "aisles"[0m
+  Rendered products/_form.html.erb (2.9ms)
+  Rendered products/edit.html.erb within layouts/application (4.4ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+Completed 200 OK in 52ms (Views: 51.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/products/1/edit" for ::1 at 2015-12-02 12:42:11 -0700
+Processing by ProductsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mProduct Load (0.1ms)[0m  [1mSELECT  "products".* FROM "products" WHERE "products"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mAisle Load (0.1ms)[0m  SELECT "aisles".* FROM "aisles"
+  Rendered products/_form.html.erb (3.5ms)
+  Rendered products/edit.html.erb within layouts/application (5.0ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 66ms (Views: 65.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:42:11 -0700
+
+
+Started GET "/aisles" for ::1 at 2015-12-02 12:42:12 -0700
+Processing by AislesController#index as HTML
+  [1m[35mAisle Load (0.1ms)[0m  SELECT "aisles".* FROM "aisles"
+  Rendered aisles/index.html.erb within layouts/application (1.2ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1[0m  [["id", 1]]
+Completed 200 OK in 48ms (Views: 46.9ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2015-12-02 12:42:20 -0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"6Ad21zVGjCP8TjszQJBhuKwhFMOC6koHP+XtgQQqJLmncrXlIYpYEWztqOoKsmJoS5oBYHJT5DfIHNURydizeg=="}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ?  ORDER BY "users"."id" ASC LIMIT 1  [["id", 1]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2015-12-02 12:42:20 -0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 46ms (Views: 45.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/dashboard" for ::1 at 2015-12-02 12:42:23 -0700
+Processing by DashboardController#index as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2015-12-02 12:42:23 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/shared/_links.html.erb (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/sessions/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 61ms (Views: 60.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2015-12-02 12:43:08 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/shared/_links.html.erb (0.3ms)
+  Rendered /Users/nicholasrucci/.rvm/gems/ruby-2.2.1/gems/devise-3.5.2/app/views/devise/sessions/new.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 52ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/aisles.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/dashboard.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/scaffolds.self-bc2457888ac0e7cf9b87dddf4ef58359e7fec5fc95fb5122934e51ab257c807b.css?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/application.self-d885a0a66bd595c10edb24f8879f94e334d88be0730c4d7c7a7b57c731c09037.css?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/products.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/welcome.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/bootstrap.min.self-9ae5c61d821804962385ca2f0024ed93309cd668ab766d3e69c04f9b4f537610.css?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/aisles.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/dashboard.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/products.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/welcome.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/bootstrap.min.self-d475868eedd65d9ab19f96e8574a2c8ce91ba7d64b8bbfa47cd55591a956ed67.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for ::1 at 2015-12-02 12:43:08 -0700
+
+
+Started GET "/aisles" for ::1 at 2015-12-02 12:43:12 -0700
+Processing by AislesController#index as HTML
+  [1m[36mAisle Load (0.1ms)[0m  [1mSELECT "aisles".* FROM "aisles"[0m
+  Rendered aisles/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 47ms (Views: 46.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/products" for ::1 at 2015-12-02 12:43:14 -0700
+Processing by ProductsController#index as HTML
+  [1m[35mProduct Load (0.1ms)[0m  SELECT "products".* FROM "products"
+  Rendered products/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 52ms (Views: 51.7ms | ActiveRecord: 0.1ms)
