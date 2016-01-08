@@ -1,1 +1,1 @@
-Rails project from DSU CS 4000
+# Rails project from DSU CS 4000
